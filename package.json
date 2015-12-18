@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node high-school-ceeb-scraper.js > output.csv",
+    "start": "node high-school-ceeb-scraper.js > output.txt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

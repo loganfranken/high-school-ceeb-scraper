@@ -12,7 +12,8 @@ To use:
 2. Run `npm install`
 3. Run `npm start`
 
-This will create a "output.csv" file with all of the information.
+This will create a "output.txt" file with a tab-delimited list of all of the
+codes.
 
 Alternatively, you can run the script directly and output to the console:
 

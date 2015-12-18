@@ -34,7 +34,7 @@ function printStateHighSchoolCodes(stateAbbr)
         return;
       }
 
-      console.log(stateAbbr + ',' + school + ',' + code);
+      console.log(stateAbbr + '\t' + school + '\t' + code);
 
     });
 
