@@ -1,0 +1,24 @@
+{
+  "name": "high-school-ceeb-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node high-school-ceeb-scraper.js > output.csv",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loganfranken/high-school-ceeb-scraper"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loganfranken/high-school-ceeb-scraper/issues"
+  },
+  "homepage": "https://github.com/loganfranken/high-school-ceeb-scraper",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.67.0"
+  }
+}
